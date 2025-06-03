@@ -1,7 +1,7 @@
 # Transcriptomics
 
 
-*Inleiding*
+**Inleiding**
 
 
 
