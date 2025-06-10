@@ -1,0 +1,199 @@
+# begin
+setwd("C:/Users/katha/OneDrive/Bureaublad/transcriptonomics/Project/")
+install.packages('BiocManager')
+BiocManager::install('Rsubread')
+BiocManager::install('DESeq2')
+install.packages('DESeq2')
+BiocManager::install('KEGGREST')
+install.packages('KEGGREST')
+BiocManager::install('org.Hs.eg.db')
+BiocManager::install('AnnotationDbi')
+BiocManager::install('tidyverse')
+BiocManager::install("limma")
+BiocManager::install("edgeR")
+BiocManager::install("msigdbr")
+if (!requireNamespace("EnhancedVolcano", quietly = TRUE)) {
+  BiocManager::install("EnhancedVolcano")}
+if (!requireNamespace("pathview", quietly = TRUE)) {
+  BiocManager::install("pathview")}
+BiocManager::install("edgeR")
+library(pathview)
+library(EnhancedVolcano)
+library(org.Hs.eg.db)
+library(AnnotationDbi)
+library(Rsubread)
+library(BiocManager)
+library(Rsamtools)
+library(readr)
+library(dplyr)
+library(DESeq2)
+library(KEGGREST)
+library(tidyverse)
+library(goseq)
+library(msigdbr)
+library(limma)
+library(edgeR)
+
+buildindex(
+  basename = 'Human',
+  reference = 'ncbi_dataset/data/GCF_000001405.40/GCF_000001405.40_GRCh38.p14_genomic.fna',
+  memory = 10000,
+  indexSplit = TRUE)
+
+# Controle monsters
+align.con19 <- align(index = "Human", readfile1 = "reads/SRR4785819_1_subset40k.fastq",  
+                                      readfile2 = "reads/SRR4785819_2_subset40k.fastq",
+                                      output_file = "con19.BAM")
+
+align.con20 <- align(index = "Human", readfile1 = "reads/SRR4785820_1_subset40k.fastq", 
+                                      readfile2 = "reads/SRR4785820_2_subset40k.fastq",
+                                      output_file = "con20.BAM")
+
+align.con28 <- align(index = "Human", readfile1 = "reads/SRR4785828_1_subset40k.fastq", 
+                                      readfile2 = "reads/SRR4785828_2_subset40k.fastq",
+                                      output_file = "con28.BAM")
+
+align.con31 <- align(index = "Human", readfile1 = "reads/SRR4785831_1_subset40k.fastq",
+                                      readfile2 = "reads/SRR4785831_2_subset40k.fastq",
+                                      output_file = "con31.BAM")
+
+# Reuma monsters
+align.reuma79 <- align(index = "Human", readfile1 = "reads/SRR4785979_1_subset40k.fastq",
+                                        readfile2 = "reads/SRR4785979_2_subset40k.fastq", 
+                                        output_file = "reuma79.BAM")
+
+align.reuma80 <- align(index = "Human", readfile1 = "reads/SRR4785980_1_subset40k.fastq",
+                                        readfile2 = "reads/SRR4785980_2_subset40k.fastq",
+                                        output_file = "reuma80.BAM")
+
+align.reuma86 <- align(index = "Human", readfile1 = "reads/SRR4785986_1_subset40k.fastq",
+                                        readfile2 = "reads/SRR4785986_2_subset40k.fastq",
+                                        output_file = "reuma86.BAM")
+
+align.reuma88 <- align(index = "Human", readfile1 = "reads/SRR4785988_1_subset40k.fastq",
+                                        readfile2 = "reads/SRR4785988_2_subset40k.fastq",
+                                        output_file = "reuma88.BAM")
+
+samples <- c('con19', 'con20', 'con28', 'con31', 'reuma79', 'reuma80', 'reuma86', 'reuma88')
+
+lapply(samples, function(s) {sortBam(file = paste0(s, '.BAM'), destination = paste0(s, '.sorted'))
+})
+
+allsamples <- c("con19.BAM", "con20.BAM", "con28.BAM", "con31.BAM", 
+                "reuma79.BAM", "reuma80.BAM", "reuma86.BAM", "reuma88.BAM")
+
+count_matrix <- featureCounts(
+  files = allsamples,
+  annot.ext = "GCF_000001405.40_GRCh38.p14_genomic.gtf.gz",
+  isPairedEnd = TRUE,
+  isGTFAnnotationFile = TRUE,
+  GTF.attrType = "gene_id",
+  useMetaFeatures = TRUE)
+
+#Resultaten bekijken
+head(count_matrix$annotation)
+head(count_matrix$counts)
+str(count_matrix)
+
+counts <- count_matrix$counts
+
+colnames(counts) <- c("con19", "con20", "con28", "con31", "reuma79", "reuma80", "reuma86", "reuma88")
+rownames(counts) <- counts[, 1]
+
+treatment <- c("control", "control", "control", "control", "reuma", "reuma", "reuma", "reuma")
+treatment_table <- data.frame(treatment)
+rownames(treatment_table) <- c('SRR4785819', 'SRR4785820', 'SRR4785828', 'SRR4785831',
+                               'SRR4785979', 'SRR4785980', 'SRR4785986', 'SRR4785988')
+counts <- read.table("count_matrix.txt")
+
+dds <- DESeqDataSetFromMatrix(countData = round(counts),
+                              colData = treatment_table,
+                              design = ~ treatment)
+dds <- DESeq(dds)
+resultaten <- results(dds)
+write.table(resultaten, file = 'ResultatenWC3.csv', row.names = TRUE, col.names = TRUE)
+
+sum(resultaten$padj < 0.05 & resultaten$log2FoldChange > 1, na.rm = TRUE)
+sum(resultaten$padj < 0.05 & resultaten$log2FoldChange < -1, na.rm = TRUE)
+
+hoogste_fold_change <- resultaten[order(resultaten$log2FoldChange, decreasing = TRUE), ]
+laagste_fold_change <- resultaten[order(resultaten$log2FoldChange, decreasing = FALSE), ]
+laagste_p_waarde <- resultaten[order(resultaten$padj, decreasing = FALSE), ]
+head(laagste_p_waarde)
+
+EnhancedVolcano(resultaten,
+                lab = rownames(resultaten),
+                x = 'log2FoldChange',
+                y = 'padj')
+
+EnhancedVolcano(resultaten,
+                lab = rownames(resultaten),
+                x = 'log2FoldChange',
+                y = 'padj',
+                pCutoff = 0)
+
+dev.copy(png, 'VolcanoplotWC.png', 
+         width = 8,
+         height = 10,
+         units = 'in',
+         res = 500)
+dev.off()
+
+resultaten[1] <- NULL
+resultaten[2:5] <- NULL
+
+
+resultaten <- read.table("ResultatenWC3.csv", header = TRUE, row.names = 1)
+
+resultaten$ENTREZID <- mapIds(
+  org.Hs.eg.db,
+  keys = rownames(resultaten),   # de SYMBOLS staan in rownames
+  column = "ENTREZID",
+  keytype = "SYMBOL",
+  multiVals = "first"
+)
+
+resultaten_clean <- na.omit(resultaten)
+
+gene_vector <- setNames(resultaten_clean$log2FoldChange, resultaten_clean$ENTREZID)
+
+pathview(
+  gene.data = gene_vector,
+  pathway.id = "035323",  # Bijvoorbeeld: IL-17 signaling pathway (relevant voor RA)
+  species = "hsa",
+  gene.idtype = "ENTREZ",
+  limit = list(gene = 3),
+  low = list(gene = "red"), 
+  mid = list(gene = "gray"),
+  high = list(gene = "green"))
+
+msig_go_bp <- msigdbr(species = "Homo sapiens", collection = "C5", subcollection = "BP")
+
+gene_sets <- split(msig_go_bp$gene_symbol, msig_go_bp$gs_name)
+dge <- DGEList(counts = counts(dds), genes = rownames(dds))
+dge <- calcNormFactors(dge)
+group <- dds$treatment
+design <- model.matrix(~ group)
+v <- voom(dge, design, plot = TRUE)
+
+camera_results <- camera(v$E, index = gene_sets, design = design, contrast = 2)
+head(camera_results[order(camera_results$PValue), ])
+camera_sig <- camera_results[camera_results$PValue < 0.05, ]
+
+write.csv(camera_sig, "pathway_enrichment_MF.csv")
+
+top_terms <- head(camera_sig[order(camera_sig$PValue), ], 10)
+top_terms$gs_name <- rownames(top_terms)
+top_terms$Direction_num <- ifelse(top_terms$Direction == "Up", 1, -1)
+
+BP<- ggplot(top_terms, aes(x = reorder(gs_name, -Direction_num * log10(PValue)),
+                           y = -log10(PValue),
+                           fill = Direction)) +
+  geom_bar(stat = "identity") +
+  coord_flip() +
+  labs(x = "Genenset (GO term)",
+       y = "-log10(p-waarde)",
+       title = "GO-BP (opgereguleerd)") +
+  theme_minimal() + scale_fill_manual(values = c("chartreuse3")) 
+BP
+
