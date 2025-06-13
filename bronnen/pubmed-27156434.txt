@@ -1,0 +1,70 @@
+PMID- 27156434
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20161213
+LR  - 20241105
+IS  - 1474-547X (Electronic)
+IS  - 0140-6736 (Linking)
+VI  - 388
+IP  - 10055
+DP  - 2016 Oct 22
+TI  - Rheumatoid arthritis.
+PG  - 2023-2038
+LID - S0140-6736(16)30173-8 [pii]
+LID - 10.1016/S0140-6736(16)30173-8 [doi]
+AB  - Rheumatoid arthritis is a chronic inflammatory joint disease, which can cause 
+      cartilage and bone damage as well as disability. Early diagnosis is key to 
+      optimal therapeutic success, particularly in patients with well-characterised 
+      risk factors for poor outcomes such as high disease activity, presence of 
+      autoantibodies, and early joint damage. Treatment algorithms involve measuring 
+      disease activity with composite indices, applying a treatment-to-target strategy, 
+      and use of conventional, biological, and newz non-biological disease-modifying 
+      antirheumatic drugs. After the treatment target of stringent remission (or at 
+      least low disease activity) is maintained, dose reduction should be attempted. 
+      Although the prospects for most patients are now favourable, many still do not 
+      respond to current therapies. Accordingly, new therapies are urgently required. 
+      In this Seminar, we describe current insights into genetics and aetiology, 
+      pathophysiology, epidemiology, assessment, therapeutic agents, and treatment 
+      strategies together with unmet needs of patients with rheumatoid arthritis.
+CI  - Copyright © 2016 Elsevier Ltd. All rights reserved.
+FAU - Smolen, Josef S
+AU  - Smolen JS
+AD  - Division of Rheumatology, Department of Medicine 3, Medical University of Vienna, 
+      Vienna, Austria; 2nd Department of Medicine, Hietzing Hospital Vienna, Vienna, 
+      Austria. Electronic address: josef.smolen@wienkav.at.
+FAU - Aletaha, Daniel
+AU  - Aletaha D
+AD  - Division of Rheumatology, Department of Medicine 3, Medical University of Vienna, 
+      Vienna, Austria.
+FAU - McInnes, Iain B
+AU  - McInnes IB
+AD  - Institute of Infection, Immunity and Inflammation, University of Glasgow, 
+      Glasgow, UK.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20160503
+PL  - England
+TA  - Lancet
+JT  - Lancet (London, England)
+JID - 2985213R
+RN  - 0 (Antirheumatic Agents)
+SB  - IM
+EIN - Lancet. 2016 Oct 22;388(10055):1984. doi: 10.1016/S0140-6736(16)30794-2. PMID: 
+      27296018
+MH  - Antirheumatic Agents/therapeutic use
+MH  - *Arthritis, Rheumatoid/drug therapy/epidemiology/etiology/physiopathology
+MH  - Diagnosis, Differential
+MH  - Humans
+MH  - Incidence
+EDAT- 2016/10/30 06:00
+MHDA- 2016/12/15 06:00
+CRDT- 2016/05/10 06:00
+PHST- 2016/10/30 06:00 [pubmed]
+PHST- 2016/12/15 06:00 [medline]
+PHST- 2016/05/10 06:00 [entrez]
+AID - S0140-6736(16)30173-8 [pii]
+AID - 10.1016/S0140-6736(16)30173-8 [doi]
+PST - ppublish
+SO  - Lancet. 2016 Oct 22;388(10055):2023-2038. doi: 10.1016/S0140-6736(16)30173-8. 
+      Epub 2016 May 3.
