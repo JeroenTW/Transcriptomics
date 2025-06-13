@@ -3,7 +3,7 @@
 
 ### Inleiding
 
-Reumatoïde artritis is een ontsteking in je gewrichten. Dit kan er voor zorgen dat er kraakbeen en botschade veroorzaken en zelf invaliditeit. [Smolen, J. S., Aletaha, D., & McInnes, I. B. (2016). Rheumatoid arthritis. Lancet (London, England), 388(10055), 2023–2038. https://doi.org/10.1016/S0140-6736(16)30173-8](bronnen/pubmed-27156434.txt)
+Reumatoïde artritis is een ontsteking in je gewrichten. Dit kan er voor zorgen dat er kraakbeen en botschade veroorzaken en zelf invaliditeit. [Smolen, J. S., Aletaha, D., & McInnes, I. B. (2016).](bronnen/pubmed-27156434.txt). 
 
 
 
