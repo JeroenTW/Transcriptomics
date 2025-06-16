@@ -3,9 +3,7 @@
 
 ### Inleiding
 
-Reumatoïde artritis is een ontsteking in je gewrichten. Dit kan er voor zorgen dat er kraakbeen en botschade veroorzaken en zelf invaliditeit.[Smolen, J. S., Aletaha, D., & McInnes, I. B. (2016).](bronnen/pubmed-27156434.txt) De totale zorgkosten zijn ongeveer 1% van de totale zorg dat is een aanzienlijke kostenpost. [Ngian G. S. (2010).](bronnen/pubmed-20877764.txt)
-
-
+Reumatoïde artritis ( RA ) is een chronische gewrichtsaandoening die aanzienlijke uitdagingen met zich meebrengt vanwege de mogelijkheid om onomkeerbare gewrichtsschade en invaliditeit te veroorzaken. [Smolen, J. S., Aletaha, D., & McInnes, I. B. (2016).](bronnen/pubmed-27156434.txt)RA treft ongeveer 1% van de bevolking en heeft niet alleen gevolgen voor de kwaliteit van leven van patiënten maar legt ook een aanzienlijke last op de gezondheidszorgstelsels. [Ngian G. S. (2010).](bronnen/pubmed-20877764.txt) Vroege diagnose en snelle, gerichte behandeling zijn cruciaal voor het verbeteren van de resultaten op lange termijn, vooral bij personen met risicofactoren zoals vroege gewrichtsschade. Ondanks de vooruitgang in de behandeling is er nog steeds niet een behandeling die de ziekte stopt. In dit onderzoek wordt er gekeken naar patienten met en zonder RA.
 
 
 
