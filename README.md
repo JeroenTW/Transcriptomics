@@ -8,7 +8,6 @@ Reumatoïde artritis(RA) is een chronische gewrichtsaandoening die aanzienlijke 
 ### Methode
 
 ![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5)
-![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5)
 
 
 +- 200 woorden met methode, flowschema. Zie leerdoelen voor mi-
