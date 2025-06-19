@@ -9,6 +9,7 @@ Reumatoïde artritis(RA) is een chronische gewrichtsaandoening die aanzienlijke 
 
 ![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5) 
 Eest werden de packages ingeladen. Nadat deze waren ingeladen is er een index gemaakt en de monsters ingeladen. 
+
 net als materiaal methode maar dan in R
 
 +- 200 woorden met methode, flowschema. Zie leerdoelen voor mi-
