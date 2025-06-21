@@ -29,9 +29,6 @@ Om te kijken welke genen opgereguleerd zijn is er een pathway gemaakt. Aan de ha
 ![opgereguleerd](https://github.com/user-attachments/assets/89d66854-92d0-4d71-8925-ca0d20636555)
 #### Figuur 4: Opgereguleerde genen van mensen met RA.
 
-vertel over de plaatjes
- +- 200 woorden, inclusief correcte verwijzingen.
- 
 ### Conclusie
 Er is een duidelijk significant verschil te zien in opgereguleerde genen vooral de adaptive immune respone speelt een grote rol.
 
