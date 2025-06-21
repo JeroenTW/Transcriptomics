@@ -7,17 +7,17 @@ Reumatoïde artritis (RA) is een chronische gewrichtsaandoening die veel uitdagi
 
 ### Methode
 
-Om te kijken welke genen er worden gebruit bij RA zijn de genen met R geanaliseerd. De materialen zijn afkomstig van uit de synofium van 4 patienten met RA en 4 patienten zonder RA. Het was bevestigd met de gene die auto antistoffen hebben. Eerst werden de packages ingeladen. Nadat deze waren ingeladen is er een index gemaakt en de monsters ingeladen en gealined van het humaan genoom(HIER DE LINK ER NAAR TOE). De gemaakte bestanden werden daarna gesorteerd, er werd daarna een DESeq data set aangemaakt. Daarna werd er een vulcano plot gemaakt. Daarna werd er een KEGG pathway gemaakt en daarna is er een ggplot gemaakt voor de opregulaatie. ![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5) 
+Om te kijken welke genen er worden gebruit bij RA zijn de genen met R geanaliseerd. De materialen zijn afkomstig van uit de synofium van 4 patienten met RA en 4 patienten zonder RA. Het was bevestigd met de gene die auto antistoffen hebben. Eerst werden de packages ingeladen. Nadat deze waren ingeladen is er een index gemaakt en de monsters ingeladen en gealined van het humaan genoom(HIER DE LINK ER NAAR TOE). De gemaakte bestanden werden daarna gesorteerd, er werd daarna een DESeq data set aangemaakt. Daarna werd er een vulcano plot gemaakt. Daarna werd er een KEGG pathway gemaakt en daarna is er een ggplot gemaakt voor de opregulaatie(Figuur 1). ![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5) 
 ##### Figuur 1: Flowshema van data analyse in R.
 
 ### Resultaten
-Om te kijken welke genen opgereguleerd en downgereguleerd zijn is er een vulcano plot gemaakt.In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde genen zoals SRGN.
+Om te kijken welke genen opgereguleerd en downgereguleerd zijn is er een vulcano plot gemaakt(Figuur 2).In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde genen zoals SRGN.
 
 
 ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) 
 #### Figuur 2: Rood is signifikant en biologish relefant en groen is signifikant en biologish relefant en grijs is geen van beide.
 
-Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze vergeleken met de RA pathway, zoals CD80/86 en MHC klasse 2.
+Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze vergeleken met de RA pathway(Figuur 3), zoals CD80/86 en MHC klasse 2.
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) 
 #### Figuur 3: Rood is upgereguleerd en groen is downgereguleerd en grijs is geen informatie over.  
 
