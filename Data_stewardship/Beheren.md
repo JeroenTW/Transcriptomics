@@ -1,3 +1,5 @@
+Door data goed te beheren blijft de informatie betrouwbaar en gemakkelijk terug te vinden, ook eenn duidelijke mappenstructuur geld hier ook voor. Zodat alle data makkelijk te vinden is en goed toegankelijk is.
+
 
 
 Waarom is dit een belangrijk onderdeel van onderzoek doen?
