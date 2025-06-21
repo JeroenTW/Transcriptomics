@@ -30,7 +30,7 @@ Om te kijken welke genen opgereguleerd zijn is er een pathway gemaakt. Aan de ha
 #### Figuur 4: Opgereguleerde genen van mensen met RA.
 
 ### Conclusie
-Dit onderzoek geeft een beeld over opgereguleerde en downgereguleerde genen. Om een conclusie te trekken zal er meer onderzoek moeten worden gedaan met meer variaatie in leeftijd en geslacht. 
+In dit onderzoek is er gekeken naar de genoom van mensen met en zonder reuma. Dit onderzoek geeft een beeld over opgereguleerde en downgereguleerde genen. Om een conclusie te trekken zal er meer onderzoek moeten worden gedaan met meer variatie in leeftijd en geslacht. 
 
 +- 200 woorden, inclusief aanbevelingen en onderzoek in context
 plaatsen.
