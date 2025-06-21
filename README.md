@@ -16,7 +16,7 @@ net als materiaal methode maar dan in R
 nimale inhoud. Scripts, data etc. kunnen in een aparte folder met verwijzing.
 
 ### Resultaten
-In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde is het wat lastiger om te zien.![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) Aan de hand van deze afbeelding is te zien dat veel genen zijn opgereguleerd zijn.![hsa05323 pathview](https://github.com/user-attachments/assets/6de78b18-1ab4-42a4-9ab1-59e94564533b) Aan de hand van deze afbeelding is te zien dat Immune respone  ![mean variance](https://github.com/user-attachments/assets/5248a961-aace-4315-818d-cb0846002d78)
+In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde is het wat lastiger om te zien.![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) Aan de hand van deze afbeelding is te zien dat veel genen zijn opgereguleerd zijn. Aan de hand van deze afbeelding is te zien dat Immune respone  ![mean variance](https://github.com/user-attachments/assets/5248a961-aace-4315-818d-cb0846002d78)
 
 
 
