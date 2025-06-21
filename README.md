@@ -11,7 +11,8 @@ Om te kijken welke genen er worden gebruit bij RA zijn de genen met R geanalisee
 ##### Figuur 1: Flowshema van data analyse in R.
 
 ### Resultaten
-Om te kijken welke genen opgereguleerd en downgereguleerd zijn is er een vulcano plot gemaakt.In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde genen zoals SRGN.![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) 
+Om te kijken welke genen opgereguleerd en downgereguleerd zijn is er een vulcano plot gemaakt.In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde genen zoals SRGN.
+![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) 
 #### Figuur 2: Rood is opgeruleerd en groen is downgereguleerd en grijs is niet signifikant.
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) Aan de hand van deze afbeelding is te zien dat veel genen zijn opgereguleerd zijn. Aan de hand van deze afbeelding is te zien dat Immune respone ![opgereguleerd](https://github.com/user-attachments/assets/89d66854-92d0-4d71-8925-ca0d20636555)
 
