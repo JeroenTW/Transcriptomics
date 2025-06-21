@@ -17,7 +17,7 @@ Om te kijken welke genen opgereguleerd en downgereguleerd zijn is er een vulcano
 ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) 
 #### Figuur 2: Rood is signifikant en biologish relefant en groen is signifikant en biologish relefant en grijs is geen van beide.
 
-Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze vergeleken met de RA pathway. 
+Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze vergeleken met de RA pathway, zoals CD80/86 en MHC klasse 2.
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) 
 #### Figuur 3: 
 
