@@ -10,10 +10,6 @@ Reumatoïde artritis (RA) is een chronische gewrichtsaandoening die veel uitdagi
 Om te kijken welke genen er worden gebruit bij RA zijn de genen met R geanaliseerd. De materialen zijn afkomstig van uit de synofium van 4 patienten met RA en 4 patienten zonder RA. Het was bevestigd met de gene die auto antistoffen hebben. Eerst werden de packages ingeladen. Nadat deze waren ingeladen is er een index gemaakt en de monsters ingeladen en gealined van het humaan genoom(HIER DE LINK ER NAAR TOE). De gemaakte bestanden werden daarna gesorteerd, er werd daarna een DESeq data set aangemaakt. Daarna werd er een vulcano plot gemaakt. Daarna werd er een KEGG pathway gemaakt en daarna is er een ggplot gemaakt voor de opregulaatie. ![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5) 
 ##### Figuur 1: Flowshema van data analyse in R.
 
-
-+- 200 woorden met methode, flowschema. Zie leerdoelen voor mi-
-nimale inhoud. Scripts, data etc. kunnen in een aparte folder met verwijzing.
-
 ### Resultaten
 In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6. Voor de opgereguleerde is het wat lastiger om te zien.![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) Aan de hand van deze afbeelding is te zien dat veel genen zijn opgereguleerd zijn. Aan de hand van deze afbeelding is te zien dat Immune respone ![opgereguleerd](https://github.com/user-attachments/assets/89d66854-92d0-4d71-8925-ca0d20636555)
 
