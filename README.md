@@ -7,8 +7,8 @@ Reumatoïde artritis (RA) is een chronische gewrichtsaandoening die veel uitdagi
 
 ### Methode
 
-![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5) 
 Eest werden de packages ingeladen. Nadat deze waren ingeladen is er een index gemaakt en de monsters ingeladen en gealined. De gemaakte bestanden werden daarna gesorteerd. Er werd daarna een DESeq data set aangemaakt en daarna een controle gedaan. Daarna werd er een vulcano plot gemaakt. Daarna ENTREZ. en daarna pathview. en daarna ggplot.
+![transcriptomics](https://github.com/user-attachments/assets/d49d1f50-8476-4ed8-aa30-e5c20f5b51e5) 
 
 net als materiaal methode maar dan in R
 
@@ -16,6 +16,8 @@ net als materiaal methode maar dan in R
 nimale inhoud. Scripts, data etc. kunnen in een aparte folder met verwijzing.
 
 ### Resultaten
+In het vulcano plot is the zien dat er bepaalde genen meer expressie hebben. ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798)
+
 vulcano
 go
 kegg
