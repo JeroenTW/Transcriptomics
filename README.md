@@ -23,7 +23,7 @@ vertel over de plaatjes
  +- 200 woorden, inclusief correcte verwijzingen.
  
 ### Conclusie
-Er is een duidelijk significant verschil te zien in opgereguleerde genen vooral de adaptive immune respone speelt een grote rol. 
+Er is een duidelijk significant verschil te zien in opgereguleerde genen vooral de adaptive immune respone speelt een grote rol.
 
 
 +- 200 woorden, inclusief aanbevelingen en onderzoek in context
