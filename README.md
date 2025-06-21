@@ -16,7 +16,7 @@ net als materiaal methode maar dan in R
 nimale inhoud. Scripts, data etc. kunnen in een aparte folder met verwijzing.
 
 ### Resultaten
-In het vulcano plot is the zien dat er bepaalde genen meer expressie hebben. ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) 
+In het vulcano plot is the zien dat er bepaalde genen meer of minder expressie hebben. ![vulcano](https://github.com/user-attachments/assets/f4687d5e-166f-4584-be75-46e8c4569798) Het gen ANKRD30BL in sterk gedownreguleerd net als MT-ND6.
 
 vulcano
 go
