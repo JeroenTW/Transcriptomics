@@ -21,10 +21,10 @@ Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze verge
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) 
 #### Figuur 3: Rood is upgereguleerd en groen is downgereguleerd en grijs is geen informatie over.  
 
-Om te kijken welke genen opgereguleerd zijn is er een pathway gemaakt. Aan de hand van deze afbeelding (figuur 4) is te zien dat Immune respone en i
+Om te kijken welke genen opgereguleerd zijn is er een pathway gemaakt. Aan de hand van deze afbeelding (figuur 4) is te zien dat Immune respone en immunoglobin zijn opgereguleerd.
 
 ![opgereguleerd](https://github.com/user-attachments/assets/89d66854-92d0-4d71-8925-ca0d20636555)
-#### Figuur 4: 
+#### Figuur 4: Opgereguleerde genen van mensen met RA.
 
 vertel over de plaatjes
  +- 200 woorden, inclusief correcte verwijzingen.
