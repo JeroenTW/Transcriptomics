@@ -1,13 +1,1 @@
-Door data goed te beheren blijft de informatie betrouwbaar en gemakkelijk terug te vinden, ook eenn duidelijke mappenstructuur geld hier ook voor. Zodat alle data makkelijk te vinden is en goed toegankelijk is.
-
-
-
-Waarom is dit een belangrijk onderdeel van onderzoek doen?
-Wat is een duidelijke mappenstructuur en waarom houd je dat aan?
-Wat is een handige manier voor de naamgeving van bestanden en waarom?
-Wat houdt versiebeheer in en waarom doe je dit?
-Hoe zorg je voor goede documentatie in scripts?
-Wat voor platforms kan je gebruiken om scripts te delen?
-Welke tools gebruik je voor data-analyse, zoals bijvoorbeeld voor het veilig opslaan van data?
-Hoe zou je omgaan met gevoelige of persoonlijke data?
-Wat is het belang van open data en het publiceren van datasets?
+Door data goed te beheren blijft de informatie betrouwbaar en gemakkelijk terug te vinden, ook eenn duidelijke mappenstructuur geld hier ook voor. Zodat alle data makkelijk te vinden is en goed toegankelijk is. Ook de naamgeving hiervoor is belangrijk zodat alles makkelijk en duidelijk vindbaar is. Ook is het belangrijk een versiebeheer bij te houden aangezien er misschien een verandering heeft plaatsgevonden waardoor de data jij hebt verkregen misschien anders is doordat de versie is veranderd. Voor goede documentatie zorg je ervoor bijvoorbeeld de namen hetzelfde blijven en niet veranderen of als je bijvoorbeeld wat veranderd op Github dat je dat dan ook vermeld. Voor het delen van je scripts kan je bijvoorbeeld Github gebruiken of een andere maar zorg ervoor dat het script toegankelijk blijft. Voor data-analyse kan je verschillende tools gebruikt zoals Rstudio of een andere codeer programma. Voor het opslaan van de data kan je bijvoorbeeld je data encrypten zodat alleen mensen met toegant hebben tot de data. Dit kan je bijvoorbeeld ook gebruiken voor gevoelige data of persoonlijke data. Het publiceren van de data is belangrijk omdat het bijdraagd aan misschien wel een nieuw medicijn of behandeling van patienten.  
