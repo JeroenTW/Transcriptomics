@@ -21,8 +21,10 @@ Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze verge
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) 
 #### Figuur 3: Rood is upgereguleerd en groen is downgereguleerd en grijs is geen informatie over.  
 
-Aan de hand van deze afbeelding is te zien dat veel genen zijn opgereguleerd zijn. Aan de hand van deze afbeelding is te zien dat Immune respone ![opgereguleerd](https://github.com/user-attachments/assets/89d66854-92d0-4d71-8925-ca0d20636555)
+Om te kijken welke genen opgereguleerd zijn is er een pathway gemaakt. Aan de hand van deze afbeelding (Figuur 4)is te zien welke genen zijn opgereguleerd . Aan de hand van deze afbeelding is te zien dat Immune respone en i
 
+![opgereguleerd](https://github.com/user-attachments/assets/89d66854-92d0-4d71-8925-ca0d20636555)
+#### Figuur 4: 
 
 vertel over de plaatjes
  +- 200 woorden, inclusief correcte verwijzingen.
