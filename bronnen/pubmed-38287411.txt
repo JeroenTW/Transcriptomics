@@ -1,0 +1,146 @@
+PMID- 38287411
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240131
+LR  - 20241023
+IS  - 1742-2094 (Electronic)
+IS  - 1742-2094 (Linking)
+VI  - 21
+IP  - 1
+DP  - 2024 Jan 29
+TI  - SRGN amplifies microglia-mediated neuroinflammation and exacerbates ischemic 
+      brain injury.
+PG  - 35
+LID - 10.1186/s12974-024-03026-6 [doi]
+LID - 35
+AB  - BACKGROUND: Microglia is the major contributor of post-stroke neuroinflammation 
+      cascade and the crucial cellular target for the treatment of ischemic stroke. 
+      Currently, the endogenous mechanism underlying microglial activation following 
+      ischemic stroke remains elusive. Serglycin (SRGN) is a proteoglycan expressed in 
+      immune cells. Up to now, the role of SRGN on microglial activation and ischemic 
+      stroke is largely unexplored. METHODS: Srgn knockout (KO), Cd44-KO and wild-type 
+      (WT) mice were subjected to middle cerebral artery occlusion (MCAO) to mimic 
+      ischemic stroke. Exogenous SRGN supplementation was achieved by stereotactic 
+      injection of recombinant mouse SRGN (rSRGN). Cerebral infarction was measured by 
+      2,3,5-triphenyltetrazolium chloride (TTC) staining. Neurological functions were 
+      evaluated by the modified neurological severity score (mNSS) and grip strength. 
+      Microglial activation was detected by Iba1 immunostaining, morphological analysis 
+      and cytokines' production. Neuronal death was examined by MAP2 immunostaining and 
+      FJB staining. RESULTS: The expression of SRGN and its receptor CD44 was 
+      significantly elevated in the ischemic mouse brains, especially in microglia. In 
+      addition, lipopolysaccharide (LPS) induced SRGN upregulation in microglia in 
+      vitro. rSRGN worsened ischemic brain injury in mice and amplified post-stroke 
+      neuroinflammation, while gene knockout of Srgn exerted reverse impacts. rSRGN 
+      promoted microglial proinflammatory activation both in vivo and in vitro, whereas 
+      Srgn-deficiency alleviated microglia-mediated inflammatory response. Moreover, 
+      the genetic deletion of Cd44 partially rescued rSRGN-induced excessed 
+      neuroinflammation and ischemic brain injury in mice. Mechanistically, SRGN 
+      boosted the activation of NF-κB signal, and increased glycolysis in microglia. 
+      CONCLUSION: SRGN acts as a novel therapeutic target in microglia-boosted 
+      proinflammatory response following ischemic stroke.
+CI  - © 2024. The Author(s).
+FAU - Qian, Yi
+AU  - Qian Y
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Yang, Lixuan
+AU  - Yang L
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Chen, Jian
+AU  - Chen J
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Zhou, Chao
+AU  - Zhou C
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Zong, Ningning
+AU  - Zong N
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Geng, Yang
+AU  - Geng Y
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Xia, Shengnan
+AU  - Xia S
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Yang, Haiyan
+AU  - Yang H
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Bao, Xinyu
+AU  - Bao X
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Chen, Yan
+AU  - Chen Y
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China.
+FAU - Xu, Yun
+AU  - Xu Y
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, Affiliated Hospital of 
+      Medical School, Nanjing University, Nanjing, 210008, China. 
+      xuyun20042001@aliyun.com.
+AD  - Department of Neurology, Nanjing Drum Tower Hospital, State Key Laboratory of 
+      Pharmaceutical Biotechnology and Institute of Translational Medicine for Brain 
+      Critical Diseases, Nanjing University, Nanjing, 210008, China. 
+      xuyun20042001@aliyun.com.
+AD  - Jiangsu Key Laboratory for Molecular Medicine, Medical School of Nanjing 
+      University, Nanjing, 210008, China. xuyun20042001@aliyun.com.
+AD  - Jiangsu Provincial Key Discipline of Neurology, Nanjing, 210008, China. 
+      xuyun20042001@aliyun.com.
+AD  - Nanjing Neurology Medical Center, Nanjing, 210008, China. 
+      xuyun20042001@aliyun.com.
+LA  - eng
+GR  - 81920108017/the National Natural Science Foundation of China/
+GR  - 2022ZD0211800/the STI2030-Major Projects/
+GR  - ZDXK202216/Jiangsu Province Key Medical Discipline/
+GR  - BE2020620/the Key Research and Development Program of Jiangsu Province of China/
+PT  - Journal Article
+DEP - 20240129
+PL  - England
+TA  - J Neuroinflammation
+JT  - Journal of neuroinflammation
+JID - 101222974
+RN  - 0 (serglycin)
+RN  - 0 (Proteoglycans)
+RN  - 0 (Vesicular Transport Proteins)
+SB  - IM
+MH  - Animals
+MH  - Mice
+MH  - Microglia/metabolism
+MH  - *Brain Ischemia/metabolism
+MH  - Neuroinflammatory Diseases
+MH  - *Stroke/metabolism
+MH  - Infarction, Middle Cerebral Artery/complications/metabolism
+MH  - Proteoglycans/metabolism
+MH  - *Ischemic Stroke/metabolism
+MH  - *Brain Injuries/metabolism
+MH  - *Vesicular Transport Proteins
+PMC - PMC10826034
+OTO - NOTNLM
+OT  - CD44
+OT  - Ischemic stroke
+OT  - Microglia
+OT  - Neuroinflammation
+OT  - Serglycin
+COIS- The authors declare that they have no competing financial interests or personal 
+      relationships that could have appeared to affect the work reported in this paper.
+EDAT- 2024/01/30 06:42
+MHDA- 2024/01/31 06:42
+PMCR- 2024/01/29
+CRDT- 2024/01/30 00:02
+PHST- 2023/11/27 00:00 [received]
+PHST- 2024/01/19 00:00 [accepted]
+PHST- 2024/01/31 06:42 [medline]
+PHST- 2024/01/30 06:42 [pubmed]
+PHST- 2024/01/30 00:02 [entrez]
+PHST- 2024/01/29 00:00 [pmc-release]
+AID - 10.1186/s12974-024-03026-6 [pii]
+AID - 3026 [pii]
+AID - 10.1186/s12974-024-03026-6 [doi]
+PST - epublish
+SO  - J Neuroinflammation. 2024 Jan 29;21(1):35. doi: 10.1186/s12974-024-03026-6.
