@@ -1,4 +1,4 @@
- # Meedere genen betrokken bij Reumatoïde arteritis
+ # Meedere genen zijn betrokken bij het ontstaan bij Reumatoïde arteritis
 
 
 ### Inleiding
