@@ -30,4 +30,4 @@ Om te kijken welke pathways er betrokken zijn bij opgereguleerde genen is er een
 #### Figuur 4: Opgereguleerde genen van mensen met RA.
 
 ### Conclusie
-In dit onderzoek is er gekeken naar het genoom van mensen met en zonder reuma. Dit onderzoek geeft een beeld over opgereguleerde en downgereguleerde genen. Het opgereguleerde gen SRGN is betrokken bij de immuunreactie [Qian, (2024).](bronnen/pubmed-38287411.txt). Om een conclusie te trekken zal er meer onderzoek moeten worden gedaan met meer variatie in leeftijd en geslacht.  Dus als aanbeveling zou er een onderzoek gedaan moeten worden met meer variatie in leeftijd en geslacht.
+In dit onderzoek is er gekeken naar het genoom van mensen met en zonder reuma. Dit onderzoek geeft een beeld over opgereguleerde en downgereguleerde genen. Het opgereguleerde gen SRGN is betrokken bij de immuunreactie [Qian, (2024).](bronnen/pubmed-38287411.txt) Om een conclusie te trekken zal er meer onderzoek moeten worden gedaan met meer variatie in leeftijd en geslacht.  Dus als aanbeveling zou er een onderzoek gedaan moeten worden met meer variatie in leeftijd en geslacht.
