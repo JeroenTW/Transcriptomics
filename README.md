@@ -21,7 +21,7 @@ Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze verge
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) 
 #### Figuur 3: Rood is upgereguleerd en groen is downgereguleerd en grijs is geen informatie over.  
 
-Om te kijken welke genen opgereguleerd zijn is er een pathway gemaakt. Aan de hand van deze afbeelding (figuur 4) is te zien dat Immune respone en immunoglobin zijn opgereguleerd.
+Om te kijken welke pathways er betrokken zijn bij opgereguleerde genen is er een pathway analyse gemaakt. Aan de hand van deze afbeelding (figuur 4) is te zien dat Immune respone en immunoglobin zijn opgereguleerd.
 
 
 
