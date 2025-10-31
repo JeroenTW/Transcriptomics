@@ -1,0 +1,9 @@
+1: Tanaka I, Dayde D, Tai MC, Mori H, Solis LM, Tripathi SC, Fahrmann JF, Unver
+N, Parhy G, Jain R, Parra ER, Murakami Y, Aguilar-Bonavides C, Mino B, Celiktas
+M, Dhillon D, Casabar JP, Nakatochi M, Stingo F, Baladandayuthapani V, Wang H,
+Katayama H, Dennison JB, Lorenzi PL, Do KA, Fujimoto J, Behrens C, Ostrin EJ,
+Rodriguez-Canales J, Hase T, Fukui T, Kajino T, Kato S, Yatabe Y, Hosoda W,
+Kawaguchi K, Yokoi K, Chen-Yoshikawa TF, Hasegawa Y, Gazdar AF, Wistuba II,
+Hanash S, Taguchi A. SRGN-Triggered Aggressive and Immunosuppressive Phenotype
+in a Subset of TTF-1-Negative Lung Adenocarcinomas. J Natl Cancer Inst. 2022 Feb
+7;114(2):290-301. doi: 10.1093/jnci/djab183. PMID: 34524427; PMCID: PMC8826620.
