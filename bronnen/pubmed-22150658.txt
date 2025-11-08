@@ -1,0 +1,62 @@
+PMID- 22150658
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130212
+LR  - 20220408
+IS  - 1532-0650 (Electronic)
+IS  - 0002-838X (Linking)
+VI  - 84
+IP  - 11
+DP  - 2011 Dec 1
+TI  - Diagnosis and management of rheumatoid arthritis.
+PG  - 1245-52
+AB  - Rheumatoid arthritis is the most commonly diagnosed systemic inflammatory 
+      arthritis. Women, smokers, and those with a family history of the disease are 
+      most often affected. Criteria for diagnosis include having at least one joint 
+      with definite swelling that is not explained by another disease. The likelihood 
+      of a rheumatoid arthritis diagnosis increases with the number of small joints 
+      involved. In a patient with inflammatory arthritis, the presence of a rheumatoid 
+      factor or anti-citrullinated protein antibody, or elevated C-reactive protein 
+      level or erythrocyte sedimentation rate suggests a diagnosis of rheumatoid 
+      arthritis. Initial laboratory evaluation should also include complete blood count 
+      with differential and assessment of renal and hepatic function. Patients taking 
+      biologic agents should be tested for hepatitis B, hepatitis C, and tuberculosis. 
+      Earlier diagnosis of rheumatoid arthritis allows for earlier treatment with 
+      disease-modifying antirheumatic agents. Combinations of medications are often 
+      used to control the disease. Methotrexate is typically the first-line drug for 
+      rheumatoid arthritis. Biologic agents, such as tumor necrosis factor inhibitors, 
+      are generally considered second-line agents or can be added for dual therapy. The 
+      goals of treatment include minimization of joint pain and swelling, prevention of 
+      radiographic damage and visible deformity, and continuation of work and personal 
+      activities. Joint replacement is indicated for patients with severe joint damage 
+      whose symptoms are poorly controlled by medical management.
+FAU - Wasserman, Amy M
+AU  - Wasserman AM
+AD  - Boston University School of Medicine, MA, 02118-2526, USA. amywass@bu.edu
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Am Fam Physician
+JT  - American family physician
+JID - 1272646
+RN  - 0 (Antirheumatic Agents)
+SB  - IM
+MH  - Antirheumatic Agents/therapeutic use
+MH  - *Arthritis, Rheumatoid/diagnosis/drug therapy/etiology
+MH  - Combined Modality Therapy
+MH  - Complementary Therapies
+MH  - Diagnosis, Differential
+MH  - Exercise Therapy
+MH  - Humans
+MH  - Prognosis
+MH  - Risk Factors
+EDAT- 2011/12/14 06:00
+MHDA- 2013/02/13 06:00
+CRDT- 2011/12/14 06:00
+PHST- 2011/12/14 06:00 [entrez]
+PHST- 2011/12/14 06:00 [pubmed]
+PHST- 2013/02/13 06:00 [medline]
+AID - d10049 [pii]
+PST - ppublish
+SO  - Am Fam Physician. 2011 Dec 1;84(11):1245-52.
