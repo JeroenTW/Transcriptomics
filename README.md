@@ -22,7 +22,7 @@ Om te kijken welke van welke genen zijn op- en downgereguleerd werden deze verge
 ![hsa05323 pathview](https://github.com/user-attachments/assets/ecf85c40-c04a-404d-8216-ca4faf9b02c7) 
 #### Figuur 3: Rood is upgereguleerd en groen is downgereguleerd en grijs is geen informatie over.  
 
-Om te kijken welke pathways er betrokken zijn bij opgereguleerde genen is er een pathway analyse gemaakt. Aan de hand van deze afbeelding (figuur 4) is te zien dat Immune respone het streks is opgereguleerd.
+Om te kijken welke pathways er betrokken zijn bij opgereguleerde genen is er een pathway analyse gemaakt. Aan de hand van deze afbeelding (figuur 4) is te zien dat immune respone het strekst is opgereguleerd.
 
 
 
@@ -31,4 +31,4 @@ Om te kijken welke pathways er betrokken zijn bij opgereguleerde genen is er een
 #### Figuur 4: Opgereguleerde genen van mensen met RA.
 
 ### Conclusie
-In dit onderzoek is er gekeken naar het genoom van mensen met en zonder reuma. Dit onderzoek geeft een beeld over opgereguleerde en downgereguleerde genen. Om te bepalen welke genen betrokken bij RA moet de meer onderzoek gedaan worden omdat er nu heel veel genen betrokken zijn. Het opgereguleerde gen SRGN is betrokken bij de immuunreactie en zorgt voor een onstekings reactie [Qian, (2024).](bronnen/pubmed-38287411.txt) Om een conclusie te trekken zal er meer onderzoek moeten worden gedaan met meer variatie in leeftijd en geslacht.  Dus als aanbeveling zou er een onderzoek gedaan moeten worden met meer variatie in leeftijd, geslacht en de genen die er bij betrokken zijn.
+In dit onderzoek is er gekeken naar het genoom van mensen met en zonder reuma. Dit onderzoek geeft een beeld over opgereguleerde en downgereguleerde genen. Om te bepalen welke genen betrokken bij RA moet de meer onderzoek gedaan worden omdat er nu heel veel genen betrokken zijn. Het is best logish dat immune respone het meest is opgereguleerd aangezien dit het meest te maken heeft met het meeste te maken heeft met het vernietigen van de gewrichten (D'Orazio, A., 2024)[bronnen/pubmed-39315569.txt] Het opgereguleerde gen SRGN is betrokken bij de immuunreactie en zorgt voor een onstekings reactie [Qian, (2024).](bronnen/pubmed-38287411.txt) Om een conclusie te trekken zal er meer onderzoek moeten worden gedaan met meer variatie in leeftijd en geslacht.  Dus als aanbeveling zou er een onderzoek gedaan moeten worden met meer variatie in leeftijd, geslacht en de genen die er bij betrokken zijn.
